@@ -5,6 +5,7 @@ https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-openai-chatgpt-nod
 
 
 Goal:
+
 4. How to scan the content from site using chat gpt promp and direct to that link(page) i.e For menu based site user types as how to make panner pasanda , then in site search for paneer pasanda and click on product link
 
 3. ChatGPT - method and how can we utilize 
